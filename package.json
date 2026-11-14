@@ -1,0 +1,11 @@
+{
+  "name": "khoi-lms",
+  "version": "1.0.0",
+  "description": "Khoi LMS - Tutoring Management System with Google Form 8/10 Rule and MongoDB",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd backend && npm start",
+    "seed": "cd backend && npm run seed"
+  }
+}
